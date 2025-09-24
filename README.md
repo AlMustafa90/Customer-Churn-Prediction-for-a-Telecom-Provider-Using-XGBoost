@@ -1,4 +1,4 @@
-# Customer Churn Prediction for a Telecom Provider Using XGBoost
+# Customer Churn Prediction for a Telecom Provider Using XGBoost Classifier
 ##  Objective  
 The goal of this project was to build a predictive model to identify customers likely to churn, enabling proactive retention strategies for a telecom provider.
 
