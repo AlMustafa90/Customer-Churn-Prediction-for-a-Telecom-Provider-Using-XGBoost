@@ -18,8 +18,8 @@ The goal of this project is to build a predictive model to identify customers li
 
 ##  Model Performance
 
-- **Best Cross-Validated Accuracy**: `75.00%`  
-- **Test Set Accuracy**: `68.33%`
+- **Best Cross-Validated Accuracy**: `89.00%`  
+- **Test Set Accuracy**: `84.33%`
 - the Model Does Well at predicting churn on Customer Category 2.0 (E-Service) and 3.0 (Plus Service): The   predicted churn distribution closely matches the actual churn
 - the Model Struggles : Customer Category 1.0 (Basic Service): The model seems to overpredict churn—it       shows more churned customers than actually exist. This could mean it's too sensitive to features common    in this group, when in reality these customers are more loyal.
 
